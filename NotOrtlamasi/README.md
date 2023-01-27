@@ -1,9 +1,11 @@
-# Java101
-Başlangıç Seviye Java ile Backend Web Development Patikasında yaptığım pratikler ve ödevler
+# Not Ortalaması Hesaplayan Program
 
-Bu repo [patika](https://www.patika.dev/tr) Başlangıç Seviye Java ile Backend Web Development Patikası için yaptığım tüm ödev ve prtikleri içerir.
+Java ile Matematik, Fizik, Kimya, Türkçe, Tarih, Müzik
+derslerinin sıinav puanlarını kullanicidan alan ve
+ortalamalarını hesaplayıp ekrana bastırilan programi
+yazın.(!!if else kullanılmayacak)
+ [patika](https://www.patika.dev/tr) 
 
-# Java101
 
 
 ## Installation
