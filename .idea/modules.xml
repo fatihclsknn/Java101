@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasitHesapMakinesi/BasitHesapMakinesi.iml" filepath="$PROJECT_DIR$/BasitHesapMakinesi/BasitHesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/DaireAlani/DaireAlani.iml" filepath="$PROJECT_DIR$/DaireAlani/DaireAlani.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java101.iml" filepath="$PROJECT_DIR$/.idea/Java101.iml" />
       <module fileurl="file://$PROJECT_DIR$/KdvHesaplama/KdvHesaplama.iml" filepath="$PROJECT_DIR$/KdvHesaplama/KdvHesaplama.iml" />
