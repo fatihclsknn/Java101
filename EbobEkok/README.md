@@ -5,7 +5,7 @@
 Java döngüler ile girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran programı yazıyoruz.
 
 
-[patika](https://www.patika.dev/tr) 
+[patika](https://app.patika.dev/fatihclsknn)
 
 
 
