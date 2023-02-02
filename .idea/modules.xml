@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ATMProjesi/ATMProjesi.iml" filepath="$PROJECT_DIR$/ATMProjesi/ATMProjesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayMaxMin/ArrayMaxMin.iml" filepath="$PROJECT_DIR$/ArrayMaxMin/ArrayMaxMin.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArtikYil/ArtikYil.iml" filepath="$PROJECT_DIR$/ArtikYil/ArtikYil.iml" />
       <module fileurl="file://$PROJECT_DIR$/AsalSayi/AsalSayi.iml" filepath="$PROJECT_DIR$/AsalSayi/AsalSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/BasamakToplami/BasamakToplami.iml" filepath="$PROJECT_DIR$/BasamakToplami/BasamakToplami.iml" />
